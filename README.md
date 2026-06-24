@@ -10,7 +10,7 @@
     .Calculator-body {
       height: 400px; /* Increased height for dual display */
       width: 280px;
-      background: linear-gradient(blue,red,yellow,white,green);
+      background: linear-gradient(rgba(0, 157, 255, 0.781),rgba(14, 43, 105, 0.725),rgba(162, 34, 20, 0.911));
       margin: 20px auto;
       border-radius: 10px;
       padding: 20px;
@@ -50,7 +50,7 @@
     }
 
     .button-container {
-      background-image: url(https://www.equinetmedia.com/hubfs/How-to-find-b2b-blog-images.png);
+      background-image: url(   https://scontent.fktm20-1.fna.fbcdn.net/v/t39.30808-6/577532479_1823292988315891_1926417523176076930_n.jpg?stp=dst-jpg_tt6&cstp=mx960x1280&ctp=s960x1280&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=EGcPyGmP2MYQ7kNvwEVY9kN&_nc_oc=AdpP2Mn-w-XvwipQbC23MWRdpEZnZK4WeC5s74RejRsF-_Y5FbGi2Mg_NYAk3KE1Lc0ZyFVoj8LxTAOuXAKAz88b&_nc_zt=23&_nc_ht=scontent.fktm20-1.fna&_nc_gid=5oWu9fdPzUpmK7CLwwH_TA&_nc_ss=7b2a8&oh=00_Af8OGF-lCAx_oVL1_AquWgG23mZMgoLc1Qpt65G1tZ_wnA&oe=6A419FE1 );
       height: 240px;
       background-size: cover;
       background-repeat: no-repeat;
